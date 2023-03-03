@@ -7,6 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1ZYI3JuXnwWjSb2Pwa5aZswAL7vTKQzZ4
 """
 
+"""
+This code is taken from google colab environment so inorder to run you have 
+to use Spyder os Colab so that you can run selected cell instead of running 
+the entire code!
+"""
+
 !pip install volumentations-3D
 !pip install MedPy
 from volumentations import *
