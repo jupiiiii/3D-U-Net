@@ -24,7 +24,7 @@ Results:
 
 Overview:
 
-Brain tumor segmentation is a critical step in medical imaging analysis, as it allows physicians to identify the extent of the tumor and plan appropriate treatment. In recent years, deep learning techniques have shown great potential in medical image segmentation tasks. In this paper, we propose a Multimodal Deep Learning Approach for Accurate Brain Tumor Segmentation on the BraTS 2020 dataset.
+Brain tumor segmentation is a critical step in medical imaging analysis, as it allows physicians to identify the extent of the tumor and plan appropriate treatment. In recent years, deep learning techniques have shown great potential in medical image segmentation tasks. In this paper, we propose a Modified Data Generator Approach for Accurate 3D Brain Tumor Segmentation on the BraTS 2020 dataset.
 
 Dataset:
 
@@ -44,4 +44,4 @@ We evaluated our model's performance using various evaluation metrics, including
 
 Conclusion:
 
-Our proposed Multimodal Deep Learning Approach for Accurate Brain Tumor Segmentation on the BraTS 2020 dataset achieved robust and accurate brain tumor segmentation results. The proposed model outperformed previous works on the BraTS 2020 dataset, demonstrating the potential of deep learning techniques in medical image segmentation tasks. This Github repository provides the code and resources used in our study, which can be utilized by researchers and practitioners to develop and evaluate their own brain tumor segmentation models.
+Our proposed Modified Data Generator Approach for Accurate Brain Tumor Segmentation on the BraTS 2020 dataset achieved robust and accurate brain tumor segmentation results. The proposed model outperformed previous works on the BraTS 2020 dataset, demonstrating the potential of deep learning techniques in medical image segmentation tasks. This Github repository provides the code and resources used in our study, which can be utilized by researchers and practitioners to develop and evaluate their own brain tumor segmentation models.
